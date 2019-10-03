@@ -1,0 +1,9 @@
+D:\18.11.2350\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe.config
+D:\18.11.2350\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe
+D:\18.11.2350\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.pdb
+D:\18.11.2350\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.TugasTiga1.resources
+D:\18.11.2350\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Properties.Resources.resources
+D:\18.11.2350\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.GenerateResource.cache
+D:\18.11.2350\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.CoreCompileInputs.cache
+D:\18.11.2350\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.exe
+D:\18.11.2350\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.pdb
